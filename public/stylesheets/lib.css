@@ -54,6 +54,8 @@ main {
 }
 
 .button {
+  text-align: center;
+  width:100%;
   padding: .5em;
   background-color: white;
   border: solid 1px #244751;
